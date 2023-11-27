@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Mentoring**
 
-- 💬 Ask me about **AI, Jira, GitHub, Team collobration**
+- 💬 Ask me about **AI, Jira, GitHub, Team collaboration**
 
 - 📫 How to reach me **abdullahakram@focuspass.com**
 
