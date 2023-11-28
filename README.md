@@ -1,6 +1,3 @@
-![image](https://github.com/Abd208/Abd208/assets/139307480/5430db14-0342-47bf-8d44-1631d52ad3fc)
-
-
 <h1 align="center">Hi 👋, I'm Abdullah Akram</h1>
 <h3 align="center">A passionate Technical project manager from Pakistan</h3>
 
@@ -8,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abd208" alt="abd208" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abdullah3926208" target="blank"><img src="https://img.shields.io/twitter/follow/abdullah3926208?logo=twitter&style=for-the-badge" alt="abdullah3926208" /></a> </p>
 
 - 🔭 I’m currently working on **Dan Hup**
 
@@ -26,7 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-akram-9ba031287/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3b9txdmpp9tgchrwd20lnk%2fq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-akram-9ba031287/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3b9txdmpp9tgchrwd20lnk%2fq%3d%3d" height="30" width="40" /></a>
+<a href="https://twitter.com/abdullah3926208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullah3926208" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullah-akram-9ba031287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-akram-9ba031287" height="30" width="40" /></a>
+<a href="https://fb.com/abd ullah akram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abd ullah akram" height="30" width="40" /></a>
+<a href="https://instagram.com/abd_ullah208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abd_ullah208" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
